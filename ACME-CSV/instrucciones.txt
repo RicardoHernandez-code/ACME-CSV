@@ -1,0 +1,11 @@
+Iniciar el programa:
+
+- Las opciones "visualizar", mostraran el contenido de los documentos. Si es la primera vez o si los documentos estan vacios, solo se podra ver el nombre de los campos.
+
+- Actualizar fichero: ejecuta todas las funciones para actualizar todos los ficheros, luego muestra un mensaje que indica que se ha terminado el proceso y muestra los ficheros actualizados.
+
+- El programa cierra cuando el usuario lo decida, podra visualizar y actualizar los datos cuantas veces lo desee.
+
+Nota: Si se elige una opcion diferente a un numero, se mostrara un mensaje de error. Si la opcion sale del rango mostrara un mensaje de error.
+
+Ricardo Hernandez. 
